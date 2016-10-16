@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/donate">
+        <file>donate-alipay.png</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>icon.jpg</file>
+        <file>icon.ico</file>
+    </qresource>
+</RCC>
