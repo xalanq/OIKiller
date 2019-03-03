@@ -3,7 +3,7 @@
 一个NOIp初赛练习和模拟考试的小软件
 
 ##
-更多介绍：[看我博客](http://www.whiteeaglealan.com/blog/2016/10/16/oikiller/)
+更多介绍：[看我博客](https://blog.xalanq.com/oikiller/)
 
 ## 文件夹说明
 
